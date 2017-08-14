@@ -1,0 +1,44 @@
+Missing Values
+
+Aryan is a Data Mining expert, who is a specialist in filling missing data. He was once approached by the Auditing Staff of a software company "Yoho". The Staff had a report of vital but out dated Tax bills of the company, in which 3 tax values were missing and requested Aryan's help in finding the missing values.
+
+Aryan is given with 3 tax values and this is how he fills in the missing data:
+If there is a missing value, it will be indicated by a -1.
+If all the 3 data values are available, he gives the data values as such.
+If one of the 3 data values is missing, he fills the missing value with the mean of the 2 known values.
+If two of the 3 values are missing, he fills the missing values with the available value.
+If all the 3 values are missing, he tell that the data cannot be recovered.
+
+Aryan was busy in another priority task and has asked you to intervene. Write a program to fill in the missing values.
+
+Input Format:
+Input consists of three integers which corresponds to the data values.
+
+Output Format:
+Output consists of three integers which corresponds to the recovered data values.
+Print “Invalid Input” if all 3 values are not available.
+
+Sample Input 1:
+-1
+-1
+80
+Sample Output 1:
+80
+80
+80
+
+Sample Input 2:
+-1
+-1
+-1
+Sample Output 2:
+Invalid Input
+
+Sample Input 3:
+2
+3
+-1
+Sample Output 3:
+2
+3
+2.5 

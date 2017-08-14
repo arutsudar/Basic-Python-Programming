@@ -1,0 +1,6 @@
+n=input()
+x=0
+for i in range(n):
+    if(input()>200000):
+        x+=1
+print x

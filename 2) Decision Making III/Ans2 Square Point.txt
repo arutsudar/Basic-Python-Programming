@@ -1,0 +1,9 @@
+l=input()
+a=input()
+b=input()
+p=input()
+q=input()
+if p<a or p>a+l or q<b or q>b+l:
+    print "No"
+else:
+    print "Yes"

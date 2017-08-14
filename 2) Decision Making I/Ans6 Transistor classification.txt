@@ -1,0 +1,8 @@
+a=raw_input()
+b=raw_input()
+if a=="yes" and b=="yes":
+    print "Common Emitter"
+elif a=="no" and b=="yes":
+    print "Common Base"
+elif a=="yes" and b=="no":
+    print "Common Collector"

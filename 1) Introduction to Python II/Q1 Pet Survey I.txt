@@ -1,0 +1,23 @@
+Pet Survey I
+
+Pets are a great way to improve our mood and temperament and is rightly an antidote for loneliness. Dogs and Cats are the common pets now a days and statistics say that there has been an increase in the number of Indian families opting for pets. The National Pet Association(NPTA), Bangalore is on a survey to count the number of Dogs and Cats raised as Pets across the State. The Survey Team's first visit was the RockBridge Public School and the surveyors went through every class to collect the statistics.
+
+Firstly, a class of 'n' students was surveyed from which 'x' students had only a dog, 'y' students had only a cat and 'z' students neither raised a dog nor a cat. Write a program to find how many students had both a dog and a cat?
+
+Input Format:
+The first line of the input is the strength of the class.
+The second line is the number of students who had only a dog.
+The third line is the number of students who had only a cat.
+The fourth is the number of students who neither had a dog nor a cat.
+
+Output Format:
+Output is an integer that corresponds to the number of students who had both a dog and a cat.
+Refer sample input and output for formatting specifications.
+
+Sample Input:
+28
+8
+6
+4
+Sample Output :
+10 

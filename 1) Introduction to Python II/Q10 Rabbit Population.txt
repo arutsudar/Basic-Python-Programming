@@ -1,0 +1,22 @@
+Rabbit Population
+
+The National Pet Association(TNAP) is in its Survey at the Bannerghata National Park at Bangalore, South India's largest artificial Forests. NTPA visits the Park every month and this time they are in process of surveying the Rabbit population and has successfully completed the task. Upon analysing the collected data, the surveyors has found that the Rabbit population has tripled every month.
+
+If there were 'n' rabbits in the beginning, help the surveyors to know
+a. How many rabbits would be there after 4 months ?
+b. How many months will it take for the rabbits to grow to 50,000?
+
+Write a program to present the above statistics.
+
+Input Format: 
+The first line of the input corresponds to the initial rabbit count. 
+
+Output Format: 
+The First line is the rabbit count after 4 months. 
+The second line is the number of months taken until there are 50,000 rabbits. 
+
+Sample Input: 
+100
+Sample Output:
+2700
+7 

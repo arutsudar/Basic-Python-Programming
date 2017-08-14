@@ -1,0 +1,11 @@
+"Aaghaaz" Fest and The Movie Show
+
+ABC Institute of Technology, a reputed College at Bangalore is organizing its Annual Fest called "Aaghaaz". On account of the grandeur fest, the organizers decided to screen the popular movie "Student of the Year" to enthral the participating audience. The film celebrates friendship and the emotions stuck in the journey of life during college days and is the highest grossing Bollywood films in Karnataka during the year 2012.
+
+For the promotions of the Fest, the organizers wanted to design attractive posters with a Welcome note so as to invite students from all Colleges across. Write a program to print the Welcome note along with the Fest name.
+
+Input and Output Format:
+Refer sample output for formatting specifications.
+
+Sample Output:
+Welcome to Aaghaaz. 

@@ -1,0 +1,19 @@
+Rectangle
+
+Chef Robert is an expert in making delicious Italian Pizzas but wait he doesn't make the usual boring round pizzas but instead perfect edged square pizzas. One day Robert prepared soft spongy dough for his yummy pizzas and was rolling the dough into N square shaped pizza dough pieces of size 1 but was yet to bake them. He came across a special order that day from a little customer Tony and the order was for rectangular pizzas and not the squared ones.
+
+Robert is into a problem now as he has to make rectangular pizzas instead of those squared pizzas he had rolled. He thought for a while and decided to make rectangular pizzas from those N squared ones. Write a program to know how many different rectangle pizzas can he formed using the N squares of size 1?
+
+Two rectangular pizzas are considered different if none of them can be rotated and moved to obtain the second one. During rectangle construction, Robert can neither deform the squares nor put any squares upon any other ones.
+ 
+ 
+Input Format
+Input is an  integer N(1 <= N <= 10000), which corresponds to the number of squares.
+ 
+Output Format
+The output should contain a single integer equal to the number of different rectangle pizzas that Robert can form using his square pizzas.
+
+Sample Input
+6
+Sample Output
+8

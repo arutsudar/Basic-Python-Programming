@@ -1,0 +1,25 @@
+Actor's Fitness Plan
+
+Mani Rathnam, the famous Tamil movie director has planned for his next movie with a very famous actor but on a request that the actor should attain a fit muscular physique. The Actor has begun his workouts instantly, getting proper advices from his personal fitness instructor. The instructor wanted the actor to workout strictly for 60 minutes everyday for 6 months.
+
+The fitness instructor assesses the Actor's physique and stamina after every five days and gives further recommendations on whether he needs to continue the same level of workouts or need to modify his activity duration and if he needs to modify, whether he needs to increase the activity time or decrease the activity time.
+
+Given the activity time(in minutes) for five days, write a program to find whether the Actor needs to "Maintain the goal" or "Modify the goal". If he has to modify the fitness goal,  whether to "Increase the activity time" or "Decrease the activity time". 
+
+Input Format:
+The five lines of the input contains each an integer value which tells the activity time of the actor in minutes per day.
+ 
+Output Format :
+Output should print "Maintain the goal" or "Modify the goal". If he has to modify the goal, then print "Increase the activity time" or "Decrease the activity time".
+Refer sample input and output for further formatting specifications.
+
+Sample Input:
+60
+40
+30
+90
+50
+
+Sample Output:
+Modify the goal
+Increase the activity time 

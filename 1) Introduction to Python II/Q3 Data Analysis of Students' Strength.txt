@@ -1,0 +1,36 @@
+Data Analysis of Students' Strength
+
+RedCliffe International School is a renowned educational Institution in the City. The Founders have recently inaugurated its new branch at Hiblur.
+
+The number of admissions at the new branch was very satisfactory and the classes are going on in full swing. Ms. Agnes, The Principal is wishing to analyse the Students' strength under each discipline of the subjects they offer. There are 'n' students studying Physics, Chemistry and Biology. Of which,
+
+'x' study Physics, 'y' study Chemistry and 'z' study Biology,
+'p' study Physics and Chemistry,
+'q' study Biology and Chemistry 
+'r' study both Physics and Biology.
+Equal numbers study all three subjects as those who study none of the three.
+
+Help Ms. Agnes know many students study all the 3 subjects?
+
+Input Format:
+The first line is an integer that corresponds to the total number of students studying Physics, Chemistry and Biology.
+The second line is the number of students studying Physics.
+The third line is the number of students studying Chemistry.
+The fourth line is the number of students studying Biology.
+The fifth line is the number of students studying both Physics and Chemistry.
+The sixth line is the number of students studying both Biology and Chemistry.
+The seventh line is the number of students studying both Physics and Biology.
+Output Format:
+Output is an integer that corresponds to the total number of students studying all the 3 subjects. 
+
+Sample Input:
+
+63
+33
+25
+26
+10
+9
+8
+Sample Output:
+6 

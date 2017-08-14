@@ -1,0 +1,24 @@
+Shooting Game
+The Summer Fair was inaugurated in the City with many entertaining events and interesting shows. There was a shooting game at the Fair which attracted more attention among the people. The shooting game comprised of 4 quadrants with many target points. Aim of the game is that the player to shoot all the target points within the given 'n' number of chances. Everytime the player shoots a target point, the digital board near the shooting grid displayed the position of the target on the 2D-plane, whether they lie on x-axis or y-axis or 1st quadrant or 2nd quadrant or 3rd quadrant or 4th quadrant.
+
+So, help the event coordinators to print the quadrants of the target points, when the player shoots the point. Write a program with a given set of points in a 2-D Plane, classify them as whether they lie on the x-axis or y-axis or 1st quadrant or 2nd quadrant or 3rd quadrant or 4th quadrant. 
+
+Input   Format   
+The first line consists of integer value the corresponds to 'n', the number of target points on the shooting grid.
+The next '2*n' lines consists of integer values, in which the first line is the x-coordinate of the first point, second line corresponds to y-coordinate of the first point, and so on..
+
+Output   Format  
+The Output consists of n lines, in which each line is a string which represents the axis or quadrant on which each of the target point lies.  
+
+Sample Input
+3
+23
+-3
+4
+8
+0
+4
+Sample Output
+4th Quadrant
+1st Quadrant
+y-axis 

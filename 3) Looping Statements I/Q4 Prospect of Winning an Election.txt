@@ -1,0 +1,23 @@
+Prospect of Winning an Election
+The Republic Party of Gebourneisk is very desperate to win over the Elections and form their reign. Their Election Manisfesto seems to be quite promising and the data analysts those recruited are leading the party rightly by suggesting ideas to improve the winning prospects. One such approach is to make all the major leaders of the Republic party to stand in constituencies where they have more prospects for winning. Given the past records of 3 elections in 'n' constituencies, find the constituencies in which the Republic party have more prospects of winning. (If the party has won atleast 2 times and if they have won the last election, there is more prospect for winning)
+
+Write a program to find the number of constitencies in which the party has more prospects of winning.
+
+Input Format
+The first line consists of integer 'n' which represents the number of constituencies.
+Next 'n' lines consists of 3 space separated character input 'y' or 'n' which indicates if the party has either won or lost respectively in the past 3 elections.
+
+Output Format
+Output should display an integer value which represents the number of constituencies in which they have more prospects of winning.
+
+Sample Input
+5
+y y n
+y n y
+y y y
+n n y
+n y y
+
+Sample Output
+3 
+ 

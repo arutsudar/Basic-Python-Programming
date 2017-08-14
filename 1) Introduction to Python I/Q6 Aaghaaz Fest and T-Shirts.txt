@@ -1,0 +1,19 @@
+"Aaghaaz" Fest and T-Shirts
+
+In the "Aaghaaz" Fest, all the events are divided into 2 categories: Technical Events and Non Technical Events. The Fest was overpeopled, the reason why the event organizers had difficulties to identify and guide the participants to their desired genre of events. However the organizers planned to distribute T-shirts of 2 colors Red and Yellow to differentiate the participants. The Red color is for students participating in Technical events and Yellow color is for students participating in Non Technical events.  
+
+A total of x% of participants have Red Shirts, total of y% of participants have Yellow Shirts and z% of participants have both Red and Yellow shirts. What percentage of participants do not have Red or Yellow Shirts?
+
+Input and Output Format:
+Refer Sample Input and Output for formatting specifications.
+
+Sample Input and Output:
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter x% of participants having the Red Shirts.
+40
+Enter y% of participants having the Yellow Shirts.
+35
+Enter z% of participants having both the Red and Yellow shirts.
+18
+43% of participants do not have Red shirts or Yellow Shirts. 

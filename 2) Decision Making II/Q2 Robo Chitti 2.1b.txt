@@ -1,0 +1,31 @@
+Robo Chitti 2.1b
+Wrangler India, the famous American manufacturer of Jeans and other clothing items, has signed a deal with ICUC Bank recently. According to the deal, those regular customers of Wrangler who use their ICUC credit card with the current credit limit as 50000, will avail an increase in their credit limits provided their last 3 months expenditure on the card should be strictly more than 50000 and should be definitely in the increasing trend.
+
+They designed a Robot Chitti 2.1 to identify the spending pattern of the customers in the last three months but now got to program it with the Credit Card Limit Decision Making Algorithm (CCLDM). 
+
+                                                                                                                                                               
+
+The CCLDM will decide whether a customer is previleged to get the increase in their credit limit. Write a program to make Chitti 2.1 get the desired output.
+
+Input Format:
+First line of the input is an integer that corresponds to first month expenditure.
+Second line of the input is an integer that corresponds to second month expenditure.
+Third line of the input is an integer that corresponds to third month expenditure.
+
+Output For mat:
+Output should print a string "Credit Limit Increased to 60000", if the conditions as per the deal are satisfied. Otherwise print "Sorry! Your Credit limit remains 50000".
+Refer sample and input for formatting specifications.
+
+Sample Input 1:
+55000
+89000 
+95000
+Sample Output 1:
+Credit Limit Increased to 60000
+
+Sample Input 2:
+64000
+56842
+21004
+Sample Output 2:
+Sorry! Your Credit limit remains 50000 

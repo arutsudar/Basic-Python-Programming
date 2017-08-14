@@ -1,0 +1,7 @@
+a=float(input())
+b=float(input())
+c=float(input())
+print "%0.1f" %((100-b-c)/100)
+print "%0.1f" %((a-100+c)/100)
+print "%0.1f" %((a-b)/100)
+print "%0.1f" %((100-a)/100)

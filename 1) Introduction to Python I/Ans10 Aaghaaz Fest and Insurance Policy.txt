@@ -1,0 +1,4 @@
+x=input("Enter the value of x\n")
+y=input("Enter the value of y\n")
+z=input("Enter the value of z\n")
+print "The probability that a new policy holder will have an accident within a year is %.3f" %( ((x*z)/100) + ((y*(100-z))/100) )

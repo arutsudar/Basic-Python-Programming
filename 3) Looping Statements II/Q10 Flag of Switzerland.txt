@@ -1,0 +1,42 @@
+Flag of Switzerland
+
+Switzerland is perhaps best known for the cheese, chocolate and watches that bear the country's name. It is also well known for its position of neutrality in international conflicts. Switzerland also receives recognition for the many beautiful lakes and mountains that make up its landscape.
+Given below is the flag of Switzerland.
+
+Consider the flag as a square pattern.
+
+
+
+Color Format:
+Red = '-'
+White = '0'
+Write a  program to print the Flag.
+Input Format:
+Input is an integer, that corresponds the width of the flag, 'n'.
+Note: 'n' is always a multiple of 5.
+
+Output Format:
+Refer sample output.
+
+Sample Input 1:
+5
+Sample Output 1:
+- - - - -
+- - 0 - -
+- 0 0 0 -
+- - 0 - -
+- - - - -
+ 
+Sample Input 2:
+10
+Sample Output 2:
+- - - - - - - - - -
+- - - - - - - - - -
+- - - - 0 0 - - - -
+- - - - 0 0 - - - -
+- - 0 0 0 0 0 0 - -
+- - 0 0 0 0 0 0 - -
+- - - - 0 0 - - - -
+- - - - 0 0 - - - -
+- - - - - - - - - -
+- - - - - - - - - -

@@ -1,0 +1,2 @@
+x = raw_input("Enter user name.\n")
+print "Congrats %s !!! Welcome to Aaghaaz." % x

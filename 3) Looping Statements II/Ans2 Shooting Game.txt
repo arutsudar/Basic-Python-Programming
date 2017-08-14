@@ -1,0 +1,16 @@
+n=input()
+for i in range(n):
+    x=input()
+    y=input()
+    if y==0:
+        print "x-axis"
+    elif x==0:
+        print "y-axis"
+    elif x>0 and y>0:
+        print "1st Quadrant"
+    elif x<0 and y<0:
+        print "3rd Quadrant"
+    elif x>0 and y<0:
+        print "4th Quadrant"
+    elif x<0 and y>0:
+        print "2nd Quadrant"

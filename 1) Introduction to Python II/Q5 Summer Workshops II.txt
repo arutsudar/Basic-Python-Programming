@@ -1,0 +1,28 @@
+Summer Workshops II
+
+The Whee Kids Summer Workshops are getting popular as days roll by and Arjun is planning his second batch of workshops shortly. In the second round of enrollments, out of 'n' kids in total, 'x' are interested in the Drama Club and 'y' are interested in the Arts Club.
+
+If there are 'z' kids enrolled in both the Clubs, Arjun wants to know:
+a) how many kids would be in neither of the Clubs?
+b) how many kids would be in either of the Clubs?
+
+Write a program to help Arjun answer his queries.
+
+Input and Output Format:
+The first line is an integer that corresponds the total number of students in class.
+The second line is the number of students taking English Composition.
+The third line is the number of students taking Chemistry Composition.
+The fourth line is the number of students in both Compositions.
+
+Output Format:
+The first line of the output is an integer that corresponds to the number of students in neither of the classes.
+The second line of the output is an integer that corresponds to the number of students in either of the classes.
+
+Sample Input:
+60
+33
+16
+8
+Sample Output:
+19
+41 

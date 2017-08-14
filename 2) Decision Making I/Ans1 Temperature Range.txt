@@ -1,0 +1,5 @@
+a=input()
+if a>=18 and a<=30:
+    print "Out-Door Events"
+else:
+    print "In-Door Events"

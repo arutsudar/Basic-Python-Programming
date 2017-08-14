@@ -1,0 +1,11 @@
+x1=input()
+y1=input()
+x2=input()
+y2=input()
+r1=input()
+r2=input()
+d= ((y2-y1)**2 + (x2-x1)**2)**.5
+if r1+r2 >= d :
+    print "Circles intersect"
+else:
+    print "Circles do not intersect"

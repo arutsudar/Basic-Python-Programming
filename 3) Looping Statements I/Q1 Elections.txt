@@ -1,0 +1,23 @@
+Elections
+General Elections for the Country of Gebourneisk are to be held in the month of May and all major parties of the country are working actively to win over the polls and form their Government. The Republic Party is one of the major parties in the counrty. The leader of the Republic party is a believer of fortune and he is so specific in selecting his election candidates based on their Id. He wanted the Id's of all the contesting candidates of his party to be lucky numbers. Lucky numbers to him are those numbers that are divisible by 3 and not divisible by 7.
+
+Write a program to find all the lucky numbers between two limits 'a' and 'b'(both inclusive) to help the leader make his job simple.
+
+Input Format:
+The first line of the input  is an integer which corresponds to 'a'.
+The second line of the input  is an integer which corresponds to 'b'.
+
+Output Format
+Print the lucky numbers between 'a' and 'b'.
+[Assume that there exists atleast one lucky number between 'a' and 'b']
+
+Sample Input
+5
+20
+
+Sample Output
+6
+9
+12
+15
+18

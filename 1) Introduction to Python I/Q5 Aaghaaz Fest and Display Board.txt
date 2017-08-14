@@ -1,0 +1,16 @@
+Aaghaaz" Fest and Display Board
+
+The Organizers of the Fest "Aaghaaz" are in full swing getting ready for the screening of the movie "Student of the Year".
+
+The College had digital screen boards all around the Campus and the organizers intended to display the movie name on the boards so that the news regarding the event reach all the students. But the screen boards had a problem as they could display just 10 characters.
+Write a program to help the event organizers print the movie name till 10 characters only.
+
+Input and Output Format:
+Refer Sample Input and Output for formatting specifications.
+
+Sample Input and Output:
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter the Movie name:
+StudentoftheYear
+The truncated string is Studentoft 

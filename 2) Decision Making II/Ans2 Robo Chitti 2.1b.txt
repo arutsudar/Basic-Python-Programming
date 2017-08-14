@@ -1,0 +1,7 @@
+a=input()
+b=input()
+c=input()
+if a<b and b<c and a>50000:
+    print "Credit Limit Increased to 60000"
+else:
+    print "Sorry! Your Credit limit remains 50000"

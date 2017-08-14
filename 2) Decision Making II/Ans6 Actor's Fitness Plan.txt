@@ -1,0 +1,12 @@
+x=0
+for i in range(5):
+    x+=input()
+x/=5
+if x==60:
+    print "Maintain the goal"
+else:
+    print "Modify the goal"
+    if x>60:
+        print "Decrease the activity time"
+    else:
+        print "Increase the activity time"

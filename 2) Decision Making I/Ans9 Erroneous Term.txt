@@ -1,0 +1,13 @@
+n=input()
+a=input()
+b=input()
+c=input()
+d=input()
+if b!=a+n:
+    print b
+elif c!=b+n:
+    print c
+elif d!=c+n:
+    print d
+else:
+    print "All numbers are correct"

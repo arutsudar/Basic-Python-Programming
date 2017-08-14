@@ -1,0 +1,23 @@
+Reconciliations
+
+Businesses often perform reconciliations on monthly, quarterly or annual closing balances to ensure financial reports accurately represent a company's financial position. Telelogix Solutions is a mid-sized Software company that performs reconciliations quarterly. The Auditing Team of the company wished to analyse the last three quarter balances and conclude which quarter depicted a better financial status of the company and present its reports to the Chairman.
+
+Write a program to help the Auditing Team find the maximum among the three given quarterly balances. 
+
+Input Format:
+The first line of the input is the balance at the end of first quarter.
+The second line of the input is the balance at the end of second quarter.
+The third line of the input is the balance at the end of third quarter.
+ 
+Output Format :
+Output is an integer that corresponds to the maximum balance among the three given quarterly balances.
+ 
+Sample Input and Output:
+ 
+Sample Input 1 :
+50000
+80000
+100000
+
+Sample Output 1 :
+Rs. 100000

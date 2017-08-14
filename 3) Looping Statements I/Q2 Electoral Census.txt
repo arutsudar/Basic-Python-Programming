@@ -1,0 +1,21 @@
+Electoral Census
+The General Elections at the country of Gebourneisk is gaining more interest as there are only few days for the Polls. There are a total of 'n' constituencies in the country and the Election Commission  ordered its members to identify the number of voters in the entire country.
+
+The Commission Members arranges an Electoral Census and found the number of voters in each of the 'n' constituencies. With this data, write a program to help the members find the total number of voters from all the constituencies in the country.
+
+Input  Format  
+The first line consists of integer value which represents the different regions.
+The next 'n' line consists of integer which represents the number of voters in 'n' different regions.
+
+Output  Format 
+A line consists integer value which represent total number of voters in the  constituency 
+
+Sample Input
+4
+10
+25
+48
+60
+
+Sample Output
+143

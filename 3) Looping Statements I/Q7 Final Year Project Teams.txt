@@ -1,0 +1,24 @@
+Final Year Project Teams
+David is the Advisor for the Final Year Instrumentation Engineering batch of students at St.Xavier's Academy. Final year Project presentation is the vital part in any student's College arena. David was illustrating his students on many interesting projects he had presented and is now involved in splitting the class into multiple 'r'-member teams so that each team works and presents one project.
+
+He was stuck at a point where he wanted to know how many such 'r'-member teams can he create out of a class of 'n' students. Write a program to help David.
+
+Input Format: 
+The First line of the input is an integer that corresponds to the total number of students in the class, n.
+The Second line of the input is an integer that corresponds to the number of students that David put in each team, r.
+[Note: n must be always greater than or equal to r]
+
+Output Format: 
+Print an integer value which gives the number of ways in which the r-member teams can be selected.
+
+Sample Input 1:
+20
+3
+Sample Output 1:
+1140
+
+Sample Input 2:
+11
+7
+Sample Output 2:
+330

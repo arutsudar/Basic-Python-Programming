@@ -1,0 +1,23 @@
+Data Analysis of Electoral Census
+ 
+The Electoral Census by the Election Commission has revealed the total number of voters from each of the 'n' constituencies of the country of Gebourneisk. The Republic Party is so ambitious and determined to win over the Polls and is striving hard towards their vision. The Party leader adapted smart strategies for it, one of it is recruiting data analysts to improve their winning prospects. He also planned to target the high-profile constituencies where the number of voters are large in population, so that he could involve more of his party men for the Campaigns.
+
+Write a program to help the leader identify the number of constituencies where the population of the voters is more than 2 lakhs.
+
+Input Format
+A line consists of integer which represents the constituencies in Gebourneisk.
+Next 'n' lines consists of integer which represent voters population in each 'n' constituencies.
+
+Output Format
+A line consists of integer which represent number of cities in which the voter count is more than 2 lakhs.
+
+Sample Input:
+5
+205487
+125489
+12548
+526548
+625487
+
+Sample Output:
+3

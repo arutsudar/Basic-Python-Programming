@@ -1,0 +1,42 @@
+n=input()
+02	pf=0
+03	f=0
+04	for a in xrange(0,10):
+05	    for b in xrange(0,10):
+06	        if b==a:
+07	            continue
+08	        for c in xrange(0,10):
+09	            if c==a or c==b:
+10	                continue
+11	            for d in xrange(0,10):
+12	                if d==a or d==b or d==c:
+13	                    continue
+14	                for e in xrange(0,10):
+15	                    if e==a or e==b or e==c or e==d:
+16	                        continue
+17	                    f=1
+18	                    s=str(a)+str(b)+str(c)+str(d)+str(e)
+19	                    s1=int(s)
+20	                    if s1*n>98765:
+21	                        f=2
+22	                        break
+23	                    m=s1*n
+24	                    s+=str(m)
+25	                    if len(s) == len(set(s)):
+26	                        pf=1
+27	                        print s[5:10],
+28	                        print '/',
+29	                        print s[0:5],
+30	                        print '=',
+31	                        print n
+32	                if f==2:
+33	                    break
+34	            if f==2:
+35	                break
+36	        if f==2:
+37	            break
+38	    if f==2:
+39	        break
+40	 
+41	if pf==0:
+42	    print "There are no solutions for %d." %(n)

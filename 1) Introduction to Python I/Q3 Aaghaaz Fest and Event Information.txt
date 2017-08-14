@@ -1,0 +1,35 @@
+"Aaghaaz" Fest and Event Information
+
+The College Fest "Aaghaaz" is organized so elaborately in such a way that there is a perfect balance of learning and entertainment for the students participating. Numerous technical and non-technical events are lined up for the Fest and the organizers intended to store the information regarding each event like Name of the event, Maximum limit of participants per team in the event and Duration of the event.
+
+Write a program for the organizers to get and store the information regarding each event and print the same when desired.
+ 
+Input and Output Format:
+Refer  sample input and output for formatting details.
+
+Sample Input and Output :
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter the Event name:
+Code Analysis
+Enter the maximum limit of participants per team in the Event:
+1
+Enter the duration of the Event(in hours):
+1.5
+Event Name : Code Analysis
+Maximum limit of participants per team: 1
+Duration of the Event: 1.5 hours
+
+Sample Input and Output 2:
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter the Event name:
+Movie Show
+Enter the maximum limit of participants per team in the Event:
+4
+Enter the duration of the Event(in hours):
+2.5
+   
+Event Name : Movie Show
+Maximum limit of participants per team: 4
+Duration of the Event: 2.5 hours 

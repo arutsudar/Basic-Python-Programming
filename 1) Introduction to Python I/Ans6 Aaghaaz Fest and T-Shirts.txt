@@ -1,0 +1,4 @@
+a=input("Enter x% of participants having the Red Shirts.\n")
+b=input("Enter y% of participants having the Yellow Shirts.\n")
+c=input("Enter z% of participants having both the Red and Yellow shirts.\n")
+print "%d%c of participants do not have Red shirts or Yellow Shirts." %(100-a-b+c , '%')

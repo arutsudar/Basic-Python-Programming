@@ -1,0 +1,36 @@
+Distribution of Chocolates
+Swetha was a Nursery Teacher and her Montessori Care decided and nominated Swetha to take all their kids to a picnic. The picnic was to a nearby National Park and as it is usual for the kids to carry  chocolates for their trips.All N kids have got their backpacks stuffed with chocolates. But soon quarrels started all over the place, as some of the kids had more chocolates than others. Soon, Swetha realized that she has to step in and ordered all the kids to put down all the chocolates on the table.
+
+Soon, there was quite a large heap of chocolates on the Swetha's table and she reacted saying she would divide the chocoalates into N equal heaps and everyone will get one of them. Is this really possible?" wondered some of the smarter kids.
+
+Swetha needs your help to find out whether she can divide the chocolates  into N exactly equal heaps. (For the purpose of this task, all chocolates are of the same type.)You are given the number of chocolates each child brought.
+
+
+Input Format
+The first line of the input file contains an integer T specifying the number of test cases.
+Each test case looks as follows: The first line contains N : the number of children. Each of the next N lines contains the number of candies one child brought.
+
+Output Format
+For each of the test cases output a single line with a single word "YES" if the candies can be distributed equally, or "NO" otherwise.
+
+
+Sample Input
+2
+5
+5
+2
+7
+3
+8
+6
+7
+11
+2
+7
+3
+4
+
+
+Sample Output
+YES
+NO

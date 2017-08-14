@@ -1,0 +1,35 @@
+Sports Day Drill
+
+It is the Annual Sports Meet at The Sacred Convent High School. The Chief Guest invited for the Meet is one of the greatest Cricketer of Indian Cricket, Ravichandran Ashwin. He was the successful bowler of the former Chennai Super Kings team. The PET Co-ordinator of the School and his team planned to perform a mass drill to welcome the beloved Chief Guest.
+
+To display the drill, the students wore T-shirts printed with the alphabets "C", "S" and "K" to remember the greatest teams of IPL represented by Ravichandran Ashwin. The Co-ordinator formed numerous patterns with the students in the drill in such a way the team name "CSK" is the highlight. The pattern changed everytime by altering the number of lines 'n' in which the students stood.
+
+Write a program to generate the pattern depicting team CSK's name, given the value of 'n'.
+
+Input Format:
+The input is an integer value which corresponds to the value 'n'.
+
+Output Format: 
+Refer Sample Outputs.
+Note:
+The 'n' value must be greater than 4.
+For Output Format refer the sample output.
+
+Sample Input 1:
+5
+Sample Output 1: 
+CCCCC
+*S*S*
+**S**
+*S*S*
+KKKKK
+
+Sample Input 2:
+6
+Sample Output 2: 
+CCCCCC
+*S**S*
+**SS**
+**SS**
+*S**S*
+KKKKKK

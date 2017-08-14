@@ -1,0 +1,24 @@
+MELD Score
+Dr. Shankar is a renowned gastroenterologist in the City, highly specialized in treating disorders related to intestines, liver and stomach. He was handling a guest lecture for the practising surgeons on MELD. MELD is the Model for End-Stage Liver Disease and is a scoring system for assessing the severity of chronic liver disease in a patient. Doctors get to know about the mortality percentage of the diseased, mortality is the state of being subject to death. 
+
+Smitha is one among the surgeons who had attended Dr. Shankar's lecture. She comes across a patient affected with a liver disease and his MELD score is known. Help Smitha find the mortality percentage of the patient by writing a program. 
+
+MELD Score: 
+The description is as follows for mortality percentage according to the MELD score: 
+A score of 40 or more predicts a 71.3% mortality 
+A score between 30 and 39 predicts a 52.6% mortality 
+A score between 20 and 29 predicts a 19.6% mortality 
+A score between 10 and 19 predicts a 6.0% mortality 
+A score below 10 predicts a 1.9% mortality 
+
+Input Format: 
+The first line of the input is an integer which corresponds to the MELD score 
+
+Output Format: 
+Print the mortality percentage as a string based on the input MELD score. 
+Refer Sample Input and Output for formatting specifications. 
+
+Sample Input: 
+25 
+Sample Output: 
+19.6% mortality

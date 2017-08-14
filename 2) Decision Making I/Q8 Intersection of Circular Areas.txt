@@ -1,0 +1,36 @@
+Intersection of Circular Areas
+Raju is an aesthetic Nature photographer. He loves clicking the unseen beauty of Nature and has compiled an album of his artistic photos. Raju sometimes uses image processing techniques as well to enhance the quality of his photos. 
+
+One day he was seen involved in processing a recent click of his, when accidentally his image processing software got corrupted by two malicious viruses. The two viruses infected two circular areas of his photo but Raju's only aim was to recover the affected parts from it. He wanted to know if there are any points in the two circular areas which was infected by both the viruses. Help him find if the two circular areas intersect at any point, given the centre and radius of the two infected areas. 
+
+Input Format: 
+ The first input is a integer value that corresponds to the x coordinate of the center of the first circle 
+ The second input is a integer value that corresponds to the y coordinate of the center of the first circle 
+ The third input is a integer value that corresponds to the x coordinate of the center of the second circle 
+ The fourth input is a integer value that corresponds to the y coordinate of the center of the second circle 
+ The fifth input is a integer value that corresponds to the radius  of the first circle 
+ The sixth input is a integer value that corresponds to the radius of the second circle 
+
+Output Format : 
+Output is a string which depend on the circles are intersect or not. 
+
+
+Sample Input 1: 
+1 
+2 
+5 
+6 
+2 
+3 
+Sample Output 1: 
+Circles do not intersect 
+
+Sample Input 2: 
+3 
+2 
+5 
+4 
+5 
+5 
+Sample Output 2 : 
+Circles intersect 

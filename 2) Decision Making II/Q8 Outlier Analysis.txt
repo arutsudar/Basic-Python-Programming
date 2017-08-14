@@ -1,0 +1,34 @@
+Outlier Analysis
+ 
+Outlier detection is the process of detecting and subsequently excluding outliers from a given set of data.
+An outlier may be defined as a piece of data or observation that deviates drastically from the given norm or average of the data set. An outlier may be caused simply by chance, but it may also indicate measurement error or that the given data set has a heavy-tailed distribution.
+ 
+Here is a simple scenario in outlier detection, a measurement process consistently produces readouts between 1 and 10, but in some rare cases we get measurements of greater than 20.
+These rare measurements beyond the norm are what we call outliers since they "lie outside" the normal distribution curve.
+ 
+A PET(Physical Education Training) Master is asked to form a team of 3 players for a Volley ball match. The Master has selected 3 players for the team but he knew the fact that if the team has players with unbalanced heights they will not perform good. So, given the heights of 3 players, the PET Master wants to determine the Outlier student. Outlier student is identified by comparing his height with the other 2 student's height. If the difference between a student's height and the other 2 students' height is greater than 5, then that student is considered to be an outlier.
+ 
+Write a program to help the Master find the outlier data.
+ 
+Input Format:
+Input consists of three integers which corresponds to the student's height.
+ 
+Output Format:
+Output consists of an integer which corresponds to the outlier student's height.
+Print “Invalid Input” if all 3 values have the difference greater than 5.
+Print “No Outliers” if all 3 values have the difference lesser than or equal to 5.
+ 
+ 
+Sample Input 1:
+152
+153
+154
+Sample Output 1:
+No Outliers
+ 
+Sample Input 2:
+10
+20
+30
+Sample Output 2:
+Invalid Input

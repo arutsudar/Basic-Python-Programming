@@ -1,0 +1,13 @@
+a=input()
+b=float(input())
+c=b/(a**2)
+print "%.2f" %c
+if (c<18.5):
+    d="Underweight"
+elif c>=18.5 and c<=24.9:
+    d="Normal weight"
+elif c>=25 and c<=29.9:
+    d="Overweight"
+else:
+    d="Obesity"
+print d

@@ -1,0 +1,30 @@
+Binning
+
+Rambo Circus is a famous Circus show which has been put up as a Summer Treat for the Kids in the City. Naina accompanied to the show with her parents on an evening and she was utmost delighted to witness a Circus show for the first time ever.
+
+What interested Naina more at the show were the Jokers who made the audience burst out in laughter. One other Joker in the group was entertaining the audience by playing the 'Binning' game, wherein he picked a ball randomly everytime from a big pool of balls and targeted it to the baskets nearby. The balls which the Joker picks are numbered between 10 - 50 (both inclusive). Based on the number on the balls he pick, he would pocket them to the baskets as below:
+
+Ball is numbered from 10 to 20 -- Basket 1
+Ball is numbered from 21 to 30 -- Basket 2
+Ball is numbered from 31 to 40 -- Basket 3
+Ball is numbered from 41 to 50 -- Basket 4
+
+Write a program to help Naina know which basket is the Joker going to bin the ball.
+
+Input Format:
+The first line of the input is an integer which represents the number on the ball that the Joker picks.
+
+Output Format:
+Output should display the Basket number in which the Joker might bin the ball. 
+Print the output as "Invalid input"(without quotes) when the number on the ball is not between 10 - 50 (both inclusive).
+
+Sample Input and Output:
+Sample Input 1 :
+45
+Sample Output 1:
+4
+
+Sample Input 2 :
+60
+Sample Output 2:
+Invalid input 

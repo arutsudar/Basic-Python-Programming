@@ -1,0 +1,29 @@
+Book Sale 3
+
+It is truely said "Reading is to the Mind what exercise is to the body". But during this technologically advanced era, the habit of book reading is fading away in people and a book is no longer a man's companion, instead an Andriod is.  
+
+To create awareness on book reading, a famous book publishing company held a book sale and sold books for high discounts. Looking at the huge response for the sales, the publishing company decided to hold the sales every month. The number of books they sold every month followed certain interesting pattern, based on which the publishing company brought their stocks for the sale.
+
+Observe the pattern below and write a program to help the publishing company predict the number of books they should stock in the nth month of sale.
+Month	Count
+1	2
+2	4
+3	11
+4	37
+5	153
+6	771
+
+Input Format:
+The input is an integer that corresponds to 'n'.
+Output Format:
+Print an integer value which corresponds to number of books the publishing company should stock in the nth month of sale.
+
+Sample Input 1:
+4
+Sample Output 1:
+37
+
+Sample Input 2:
+6
+Sample Output 2:
+771

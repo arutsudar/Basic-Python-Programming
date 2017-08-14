@@ -1,0 +1,8 @@
+t=input()
+h=input()
+w=input()
+a=input()
+if t<=.5*h + .2*w + .3*a:
+    print "Potential Player"
+else:
+    print "Not Potential Player"

@@ -1,0 +1,11 @@
+t=input()
+while(t):
+    t-=1
+    n=input()
+    a=0
+    for i in range(n):
+        a=a+input()
+    if a%n==0:
+        print "YES"
+    else:
+        print "NO"

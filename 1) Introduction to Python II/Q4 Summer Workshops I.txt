@@ -1,0 +1,28 @@
+
+Summer Workshops I
+
+With Summer already knocking the doors, its time for the kids to beat the heat and explore the most exciting co-curricular activities during their leisure time in Summer. The Whee Kids Academy in the City has complied and launched some exciting Summer workshops under two primary genre of events: Drama Club and Arts Club.
+
+Numerous kids have enrolled for the workshops for both these Clubs and the Co-ordinator Arjun is all set to start his hour of workshop. But before that, he is responsible to select a mentor amongst the kids randomly and the kid whom Arjun selects can be from the Drama Club or from the Arts Club. Help him find what is the probability  that the selected student is:
+    a) from the drama club?
+    b) from the art club?
+
+Given there are 'n' kids in total from both the Clubs in the batch, 'x' from Drama Club and 'y' from Arts Club.
+
+Input and Output Format:
+The first line of the input is an integer which corresponds to the total number of students in the class.
+The second line is the number of students in drama club.
+The third line is the number of students in art club.
+Output Format:
+The first line of the output is a float value that corresponds to the Probability that the selected student is in the drama club.
+The second line of the output is a float value that corresponds to the Probability that the selected student is in the art club.
+
+Print probability value corrected to 2 decimal places.
+
+Sample Input:
+40
+8
+12
+Sample Output:
+0.20
+0.30 

@@ -1,0 +1,2 @@
+a=raw_input("Enter the Name\n")
+print a*5

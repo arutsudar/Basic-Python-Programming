@@ -1,0 +1,26 @@
+Erroneous Term
+Sandhya is a Mathematics Teacher at Holy Shepherd Primary School. She is dedicated and inspiring and is liked by all her students.
+
+On a sluggish afternoon, Sandhya rushed to her 2nd grade class to teach Subtraction. As the students were feeling dull and inert, Sandhya excited them by playing a game related to subtraction. She called out a student and said him a number N. Now she instructed the student to pick four Bingo balls(Bingo balls are numbered colourful balls) from a heap in front of him, the only condition being the student should select those 4 balls in such a way that the number on each ball he picks should have a difference N with the previous ball he picked. The student loses if there are any erraneous number among the 4 numbers the student picks.
+
+Write a program to help Sandhya find if there are any erraneous number out of the 4 values.
+
+ Input Format: 
+   The first line of the input is an integer  N that corresponds to the AP difference. 
+   The second line of the input is an integer that corresponds first value. 
+   The third line of the input is an integer that corresponds second value. 
+   The fourth line of the input is an integer that corresponds third value. 
+   The fifth line of the input is an integer that corresponds fourth value.
+ 
+ O utput Format: 
+ P rint the integer value which is Erroneous number among four integer values.
+ If all the 4 numbers are correct, print "All numbers are correct". 
+
+Sample Input:
+4
+10
+14
+30 
+34 
+Sample Output: 
+30 

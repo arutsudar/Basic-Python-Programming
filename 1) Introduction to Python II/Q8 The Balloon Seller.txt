@@ -1,0 +1,24 @@
+The Balloon Seller
+
+The RedCliffe International School is known for its lavish Cultural and Sports day Celebrations. To attract the kids a balloon seller was selling balloons. There were balloons of two different colours(red and violet). If one balloon is sold, he inflates two balloons of the other colour.
+ 
+Suppose he has 'x' red balloons and 'y' violet. From that he sold a balloon and inflated two of the other color and then a second balloon is sold. Calculate:
+The probability that the second balloon sold is violet.
+The probability that both balloons sold are of the same color.
+
+Write a program to find the desired data.
+
+Input Format:
+The first line of the input corresponds to the number of red balloons.
+The second line of the input corresponds to the number of violet balloons.
+
+Output Format:
+The first line is a float that corresponds to the probability that the second balloon sold is violet.
+The second line is a float that corresponds to the probability that both balloons sold are of the same color.
+
+Sample Input:
+5
+8
+Sample Output:
+0.58
+0.42

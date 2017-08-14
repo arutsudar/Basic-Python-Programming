@@ -1,0 +1,2 @@
+a=input("Enter the score\n")
+print "The score is\n%.5f\n%.1f\n%.2f\n%.4f" %(a,a,a,a)

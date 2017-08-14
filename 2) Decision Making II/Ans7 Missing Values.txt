@@ -1,0 +1,24 @@
+a=input()
+b=input()
+c=input()
+if a==-1 and b==-1 and c==-1:
+    print "Invalid Input"
+else:
+    if a==-1 and b==-1:
+        a=c
+        b=c
+    elif a==-1 and c==-1:
+        a=b
+        c=b
+    elif b==-1 and c==-1:
+        b=a
+        c=a
+    elif a==-1:
+        a=float(b+c)/2
+    elif b==-1:
+        b=float(a+c)/2
+    elif c==-1:
+        c=float(a+b)/2
+    print a
+    print b
+    print c

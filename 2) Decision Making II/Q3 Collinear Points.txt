@@ -1,0 +1,28 @@
+Collinear Points
+"Aashiyana" Montessori is rightly called a School with a difference. The reason being, the first hour of everyday in the school is the Physical training education as the School believes the concept of  Play and Learn. Basic things are taught to the kids during the hour like standing in a straight line to learn queue discipline, walking backwards, playing with a string, etc.,
+
+One day during the PED hour, the Physical training Teacher, instructed all his Pre-primary kids to stand in a straight line. Being too small the kids weren't so much perfect. The teacher could view all the kids in the line from the front except those 3 kids who were at the very end of the line.
+
+Write a program to help the teacher find if the points where the last 3 kids are standing are collinear or non-collinear, given (x1, y1), (x2, y2), (x3, y3) are the co-ordinates of the points where the 3 kids are standing.
+
+Input Format
+the first line is integer which corresponds to x1.
+the second is line integer which corresponds to y1.
+the third line is integer which corresponds to x2.
+the fourth line is integer which corresponds to y2.
+the fifth line is integer which corresponds to x3.
+the sixth line is integer which corresponds to y3.
+
+ Output Format
+Print the string as "Collinear" if points are collinear otherwise print string "Non Collinear".
+
+Sample Input
+2
+4
+4
+6
+6
+8
+
+Sample Output
+Collinear 

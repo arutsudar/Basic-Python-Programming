@@ -1,0 +1,6 @@
+n=float(input())
+x=float(input())
+a1=float(input())
+a2=float(input())
+ans=(x*a1+(n-x)*a2)/n
+print "%.2f" %ans

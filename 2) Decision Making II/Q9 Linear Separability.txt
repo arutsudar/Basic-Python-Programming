@@ -1,0 +1,39 @@
+Linear Separability
+Two sets are linearly separable if there exists at least one line in the plane with all of the points on one side of the line and all the points on the other side.
+
+It was a breezy evening when Jim is busy playing and his elder brother Jammy was studying in his room. When Jammy felt like taking a break from his books for a while, he came out of his room and found Jim playing with 3 colourful balls. He tried to recollect the concept of linear separability that he had just learned and wanted to work it out on Jim's balls.
+
+Now Jammy considered the position of the 3 balls as 3 points on the feature vector of size 2. The first two points represented as A(x1, y1) and B(x2, y2) lie in class 1 and the third point represented as  C(x3, y3) lies in the class 2. Write a program to help Jammy conclude if the given points are linearly separable or not.
+
+Input Format
+The first line of the input is an integer that corresponds to x1.
+The second line of the input is an integer that corresponds to y1.
+The third line of the input is an integer that corresponds to x2.
+The fourth line of the input is an integer that corresponds to y2.
+The fifth line of the input is an integer that corresponds to x3.
+The sixth line of the input is an integer that corresponds to y3.
+
+Output Format
+Print  "Separable" if class 1 and class 2 are linearly separable, else print "Non Separable".
+
+Sample Input
+2
+4
+4
+6
+6
+8
+Smaple Output
+Separable
+
+
+Sample Input
+4
+12
+14
+12
+10
+12
+
+Smaple Output
+Non Separable 

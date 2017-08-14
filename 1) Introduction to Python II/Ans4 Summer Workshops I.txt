@@ -1,0 +1,5 @@
+a=input()
+b=input()
+c=input()
+print "%.2f" %(float(b)/a)
+print "%.2f" %(float(c)/a)

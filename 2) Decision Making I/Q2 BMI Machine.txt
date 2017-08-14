@@ -1,0 +1,40 @@
+BMI Machine
+
+Brookfields mall is a premier shopping mall in the Coimbatore City and is the place for complete family entertainment and shopping. The Mall is the prominent place of tourist attraction and a favourite hang out spot for the local people, the reason why the Management decides to place a BMI equipment at the Mall. 
+
+The Management wished to design a unique BMI machine themselves, which by knowing the height and weight of a person, will calculate the BMI value precisely and print the correct BMI classification. Write a program to help the Management design the BMI machine. 
+
+Note : 
+BMI <18.5  -   Underweight 
+18.5-24.9    -   Normal weight 
+25.0-29.9    -   Overweight 
+>30.0          -   Obesity 
+
+Input Format: 
+The first line of the input is a float value that corresponds to the height of an individual in metres. 
+The second line of input is an integer value that corresponds to the weight of the individual in kilograms. 
+
+Output Format : 
+The first line of the output is the float value which is BMI value correct to two decimal places. 
+The second line of the output is the string which is correct BMI classification.
+
+Sample Input 1 :
+1.67
+80 
+Sample Output 1 :
+28.69
+Overweight
+ 
+Sample Input 2 :
+1.90
+60 
+Sample Output 2 :
+16.62
+Underweight
+ 
+Sample Input 3 :
+1.69
+62 
+Sample Output 3 :
+21.71
+Normal weight

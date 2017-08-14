@@ -1,0 +1,38 @@
+Balloon Shooting Game
+
+It is "Youth Carnival" at St. Joseph's Business School. With fun and frolic filled in the air, the students are celebrating the extravagance compiled with delicious food fiesta, Mind games, Quiz contests, Lucky Corner and so on.
+
+One such event was the Balloon shooting, wherein balloons are placed on the wall as shown in the figure below. The aim of the player in the game is to shoot only those balloons placed on the reference line and the line can be in any direction.
+
+Consider the end points of the reference line as point A(x1,y1) and point B(x2,y2) and point P(x,y) is the point where the player shoots the balloon. Write a program to find whether the player wins or loses. If the player loses, the program should tell whether the player has shot "Above the Line" or "Below the Line". 
+
+                                                                              
+
+Input Format:
+The first line of the input is the x coordinate of point A.
+ The second line of the input is the y coordinate of point A.
+ The third line of the input is the x coordinate of point B.
+ The fourth line of the input is the y coordinate of point B.
+ The fifth line of the input is the x coordinate of point P.
+ The sixth line of the input is the y coordinate of point P.
+
+Output Format :
+Output should print "Win" or "Lose" in the first line.
+If the output is "Lose", then print whether P lies "Above the Line" or "Below the Line".
+Refer sample input and output for further formatting specifications.
+ 
+Sample Input and Output: 
+Sample Input 1: 
+2 0 
+8 0 
+3 1 
+Sample Output 1: 
+Lose 
+Above the Line 
+
+Sample Input 2: 
+2 0 
+8 0 
+3 0 
+Sample Output 2: 
+Win

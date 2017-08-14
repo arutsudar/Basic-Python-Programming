@@ -1,0 +1,32 @@
+Soccer and Basket Ball Club
+
+Numerous Sports Club similar to Cricket Club is being organized at RedCliffe International School based on the students demand. Soccer Club and Basket Ball Club are newly formed and the School Management wished to know the statistics of the students who are willing to play these games.
+
+In a class in which all students practice at least one sport, 'x'% of students play soccer or basketball and 'y'% practice both sports. If there is also 'z'% who do not play soccer, help the Management calculate the probability that a student chosen at random from the class:
+ a)Plays soccer only.
+ b)Plays basketball only.
+ c)Plays only one of the sports.
+ d)Plays neither soccer nor basketball.
+
+Write a program to present the above data to the Management. 
+
+Input Format: 
+The first line is the percentage of students practicing at least one sport.
+The second line is the percentage of students practicing both the sports.
+The third line is the percentage of students who do not play soccer.
+Output Format:
+The first line is the probability that a student chosen Plays only soccer.
+The second line is the probability that a student chosen Plays only basketball.
+The third line is the probability that a student chosen Plays only one of the sports.
+The fourth line is the probability that a student chosen Plays neither soccer nor basketball.
+
+Sample Input:
+
+60
+10
+60
+Sample Output:
+0.3
+0.2
+0.5
+0.4 

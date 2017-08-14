@@ -1,0 +1,14 @@
+x1=input()
+y1=input()
+x2=input()
+y2=input()
+x3=input()
+y3=input()
+d=(y3-y1)*(x2-x1)-(y2-y1)*(x3-x1)
+if d!=0:
+    print "Separable"
+else:
+    if (x3>x2 and x3>x1) or (x3<x2 and x3<x1) or (y3>y2 and y3>y1) or (y3<y2 and y3<y1):
+        print "Separable"
+    else:
+        print "Non Separable"

@@ -1,0 +1,15 @@
+n=input()
+x=1
+for i in range(1,n+1):
+    x*=i
+print x
+
+
+
+"""Also the below code works
+
+n=input()
+from math import factorial
+print factorial(n)
+
+"""

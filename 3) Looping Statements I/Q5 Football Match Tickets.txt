@@ -1,0 +1,16 @@
+Football Match Tickets
+
+Football is clearly the most popular sport in terms of fans and remains the global sphere of influence. Suresh and his dear friends Ram, Sunny and few more are ardent football fans and are desperate to watch the Finals of the IFL 2017.
+
+The ticket issue for the match started well early in the morning and the friends were right on time to the Stadium to collect their tickets. There is a friendly competition amongst the friends themselves as of who would be the first in queue to collect the ticket. To know that, the friends needed to know in how many ways they can form the queue. Write a program to help the friends find the number of ways they can form a queue.
+
+Input Format
+First line Input is an integer value which corresponds to the number of friends forming the queue.
+
+Output Format
+Output is an integer value which corresponds to the number of  ways the queue can be formed.
+
+Sample Input
+7
+Sample Output
+5040 

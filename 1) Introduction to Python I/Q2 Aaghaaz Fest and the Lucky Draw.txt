@@ -1,0 +1,15 @@
+"Aaghaaz" Fest and the Lucky Draw
+
+"Student of the Year" is a youthful romantic drama flick and hence attracted huge students crowd. A lucky draw was conducted in connection with the screening of the Film and the organisers gave away 5 tickets for free to 5 persons from the audience. Now, help the organisers print the names of those lucky winners' who had won the tickets and congratulate them.
+
+Write a program to get the name of the lucky winners and print the Congratulations message on the big screen.
+
+Input and Output Format:
+Refer  sample input and output for formatting details.
+
+Sample Input and Output:
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter user name:
+Vikram
+Congrats Vikram !!! Welcome to Aaghaaz. 

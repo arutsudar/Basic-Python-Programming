@@ -1,0 +1,30 @@
+Same Quadrant
+ 
+Given 2 points in a 2-D plane, find whether the 2 points lie in the same quadrant.
+ 
+Input Format:
+The first line of the input is an integer which corresponds to x coordinate of the first point.
+The second line of the input is an integer which corresponds to y coordinate of the first point.
+The third line of the input is an integer which corresponds to x coordinate of the second point.
+The fourth line of the input is an integer which corresponds to y coordinate of the second point.
+ 
+Output Format:
+Output is a String. Print "Yes" if both the points lie on the same quadrant, else print "No".
+ 
+Sample Input 1:
+1
+4
+2
+7
+Sample Output 1:
+Yes
+ 
+Sample Input 2:
+4
+12
+3
+-2
+Sample Output 2:
+No
+
+

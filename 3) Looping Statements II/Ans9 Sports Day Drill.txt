@@ -1,0 +1,12 @@
+import sys
+n=input()
+print 'C'*n
+for i in range(n-2):
+    print '*',
+    for j in range(n-2):
+        if i==j or i==n-3-j:
+            sys.stdout.write('S')
+        else:
+            sys.stdout.write('*')
+    print '*'
+print 'K'*n

@@ -1,0 +1,20 @@
+Temperature Range
+
+The Spartan Public School, Manali decided to conduct a summer camp for the School kids. Nikhil was the Camp Incharge and he finalized a list of Events to be organized for the Camp. There were both Indoor and Outdoor Events. Nikhil instructed his Teachers to conduct the Outdoor Events based on the present day's Temperature as the School holds responsibility on the safety of the kids.
+
+Nikhil allowed the kids for Outdoor Events only if the day's temperature is less than 30 degrees and greater than 18 degrees. Otherwise the kids are engaged with Indoor Events. Write a program to help Nikhil and the teachers to decide whether Indoor events or Outdoor events are to be organized based on the day's temperature. 
+
+Input Format: 
+The First line of the input is an integer that corresponds to the temperature recorded on the particular day. 
+Output Format: 
+Print "Out-Door Events" or "In-Door Events" based on the given temperature
+
+Sample Input 1:
+35
+Sample Output 1:
+In-Door Events
+
+Sample Input 2:
+23
+Sample Output 2:
+Out-Door Events 

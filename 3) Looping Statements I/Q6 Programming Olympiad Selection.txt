@@ -1,0 +1,17 @@
+Programming Olympiad Selection
+The Indian Computing Olympiad is an annual programming competition held to select the top 'r' students to represent India at the International Olympiad in Informatics. For the running year 2017, 'n' students from all over India have been scrutinized to compete in the Indian Computing Olympiad. The top 'r' participants will be rewarded and will have the previlege to represent India.
+
+The Olympiad Committee wanted to know how many possible ways are there to select the 'r' top students out of 'n'. Write a program to find the number of ways in selecting the prize winners.
+
+Input Format: 
+The First line of the input is an integer that corresponds to total number of students appearing for the programming contest, 'n'.
+The Second line of the input is an integer that corresponds to  'r'.
+[Note: n must be always greater than or equal to r]
+
+Output Format: 
+Print an integer value which corresponds to the number of ways the top students can be selected from the 'n' participants.
+Sample Input:
+10
+3
+Sample Output:
+720 

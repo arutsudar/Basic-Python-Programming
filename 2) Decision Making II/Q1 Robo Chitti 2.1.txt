@@ -1,0 +1,30 @@
+Robo Chitti 2.1
+
+Wrangler India, the famous American manufacturer of Jeans and other clothing items has come out with new strategies to rule over the market against their budding and ruling Brands. One such strategy to keep up their customers is the "Bonanza Offer". According to this special offer, the seller will identify Wrangler's "Loyal Customers" and gift them a valuable product like Andriod phones, LED TV, etc.,
+
+Now who according to the sellers are those "Loyal Customers"? They are the customers who has purchased Wrangler shirts more in count than those other brand shirts, in their 3 recent purchases . The seller Wrangler has designed a Robot Chitti 2.1 for finding the 3 recent purchase bills of their Customers. The Robot has to be now programmed to find those Loyal Customers by analysing the buying pattern from the bills.        
+
+Write a program that would help Chitti identify Wrangler's Loyal Customers.
+
+Input Format:
+First line of the input are two integers separated by spaces that corresponds to the number of shirts that a customer brought from Wrangler and other brand respectively, in the first recent purchase.
+Second line of the input are two integers separated by spaces that corresponds to the number of shirts that a customer brought from Wrangler and other brand respectively, in the second recent purchase.
+Third line of the input are two integers separated by spaces that corresponds to the number of shirts that a customer brought from Wrangler and other brand respectively, in the third recent purchase.
+
+Output For mat:
+Output should print "Loyal costumer!!!" if the above conditions are satisfied. Othewise print "Ordinary customer!!!".
+Refer sample and input for formatting specifications.
+
+Sample Input 1:
+12 13
+18 14
+10 10
+Sample Output 1:
+Loyal costumer!!!
+
+Sample Input 2:
+13 10
+11 18
+13 15
+Sample Output 2:
+Ordinary costumer!!! 

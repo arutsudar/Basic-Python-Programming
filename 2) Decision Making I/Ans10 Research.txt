@@ -1,0 +1,10 @@
+a=input()
+x=input()
+b=input()
+y=input()
+c=input()
+z=input()
+if (a>b and x<y) or (a>c and x<z) or (b>c and y<z) or (b>a and y<x) or (c>a and z<x) or (c>b and z<y):
+    print "False"
+else:
+    print "True"

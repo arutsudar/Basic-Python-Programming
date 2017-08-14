@@ -1,0 +1,34 @@
+ Division
+
+Daisy is a smart, intelligent girl studying in the seventh grade and is the topper of her class. She is selected to represent her school at the National Talent Search Examination and is busy preparing for the exams very dedicatedly.
+
+Daisy came across an interesting problem in Maths during her preparations. It goes like this: Find and display all pairs of 5-digit numbers that contains all the digits 0 through 9 once each, such that the first number divided by the second is equal to an integer N, where 2<=N<=79.
+That is,
+                          abcde/fghij = N
+where each letter represents a different digit. The first digit of one of the numerals is allowed to be zero. Daisy toiled hard to solve the problem herself but it seemed a bit tricky and so she requests your intervention.
+
+Write a program to find and and display all pairs of 5-digit numbers that contains all the digits 0 through 9 once each, such that the first number divided by the second is equal to an integer N, where 2<=N<=79.
+
+Input Format:
+The input is an integer value which corresponds to N.
+
+Output Format:
+Your program have to display ALL qualifying pairs of numerals, sorted by increasing numerator( and, of course,denominator).
+Your output should be in the following general form:
+xxxxx / xxxxx = N
+xxxxx / xxxxx = N
+   .
+   .
+
+In case there are no pairs of numerals satisfying the condition, you must print "There are no solutions for N.". Separate theoputput for two different values of N by a blank line.
+
+Sample Input 1:
+61
+Sample Output 1:
+There are no solutions for 61.
+
+Sample Input 2:
+62
+Sample Output 2:
+79546 / 01283 = 62
+94736 / 01528 = 62 

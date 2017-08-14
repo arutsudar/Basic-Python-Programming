@@ -1,0 +1,6 @@
+a=raw_input("Enter the Event name:\n")
+b=input("Enter the maximum limit of participants per team in the Event:\n")
+c=input("Enter the duration of the Event(in hours):\n")
+print "Event Name : %s" %a
+print "Maximum limit of participants per team: %d" %b
+print "Duration of the Event: %0.1f hours" %c

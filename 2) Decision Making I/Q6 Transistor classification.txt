@@ -1,0 +1,39 @@
+Transistor classification
+
+Ranjini is pursuing her ECE Degree in ABC Institute of Technology. She was very much interested in the Electronics stream and was so eager to learn about the different elctronic devices in her first year of study. Ranjini attended a theory session on Transistors recently and intended to configure circuits that were given in her workbook. Write a program to help her identify the Transistor configuration .
+
+Note :   
+Bipolar Transistor is a three terminal device, there are basically three possible ways to connect it within an electronic circuit with one terminal being common to both the input and output. Each method of connection responding differently to its input signal within a circuit as the static characteristics of the transistor vary with each circuit arrangement. 
+
+Common Base Configuration   –   has Voltage Gain but no Current Gain. 
+Common Emitter Configuration   –   has both Current and Voltage Gain. 
+Common Collector Configuration   –   has Current Gain but no Voltage Gain. 
+
+Input Format: 
+ The first input is a string  that corresponds to yes/no input to indicate if the current gain is present or not . 
+ The second input is a string  that corresponds to yes/no input to indicate if the voltage gain is present or not  . 
+
+Output Format : 
+Output corresponds to the Transistor configuration for the input. 
+(Refer sample input and output for further formatting specifications.) 
+
+Sample Input and Output: 
+[All text in bold corresponds to input and the rest corresponds to output] 
+
+Sample Input1: 
+yes 
+no 
+Sample Output 1: 
+Common Collector 
+
+Sample Input 2: 
+no   
+yes 
+Sample Output 2: 
+Common Base 
+
+Sample Input 3: 
+yes 
+yes 
+Sample Output 3: 
+Common Emitter 

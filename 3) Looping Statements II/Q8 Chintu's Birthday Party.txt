@@ -1,0 +1,20 @@
+Chintu's Birthday Party
+
+It is a special day for Tinu's family as it was their little darling Chintu's first birthday. The family decided to throw a party to celebrate the special occasion and were working in full swing involved in the party preparations.
+
+Manisha, Tinu's elder kid and her friends purchased all those decorative stuffs for the party like balloons, hanging decoratives, paper banners, etc. They next sat down to discuss on how the decoratives can be put up around the party hall and concluded upon few decorative patterns. Write a program to help the friends print the decorative patterns as designed. 
+
+Input Format: 
+The input is an integer value which corresponds to 'n'. 
+
+Output Format:
+Refer sample output for the desired output. 
+
+Sample Input:
+5
+Sample Output:
+1 2 3 4 5
+4 3 2 1
+1 2 3
+2 1
+1

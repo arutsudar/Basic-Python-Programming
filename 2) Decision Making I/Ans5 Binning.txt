@@ -1,0 +1,11 @@
+a=input()
+if a<10 or a>50:
+    print "Invalid input"
+elif a>=10 and a<=20:
+    print 1
+elif a>20 and a<=30:
+    print 2
+elif a>30 and a<=40:
+    print 3
+else:
+    print 4

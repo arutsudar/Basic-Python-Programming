@@ -1,0 +1,4 @@
+import math
+n=input()
+print 27*n
+print "%0.0f" %math.ceil(1+((math.log(50000) - math.log(n)) / math.log(3) ))

@@ -1,0 +1,16 @@
+"Aaghaaz" Fest and Probability
+
+The "Aaghaaz" Fest conducted by the ABC Institute of Technology is a grandiose Annual festival. The Event Co-ordinator of the Fest Rita, had planned to conduct the Fest at Noida.  She figures that there is x% chance that this event will  happen in Noida this year.  If it does, she is y% certain that she will be made the Event Head. What is the probability that Rita will become the Event Head for the Fest at Noida?
+
+Input and Output Format:
+Refer sample input and output for formatting specifications.
+All float values are displayed correct to 2 decimal places.
+
+Sample Input and Output:
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter the % of chance that the Fest will be held at Noida
+30
+Enter the percentage that Rita will be made the Event Head
+40
+The probability that Rita will be the Event Head at Noida is 0.12 

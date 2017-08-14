@@ -1,0 +1,23 @@
+Average Score
+ 
+A class of 'n' students took a science test. 'x' students had an average (arithmetic mean) score of 'a1'.  The other students had an average score of 'a2'.  Write a program to find the average score of the whole class?
+ 
+Input Format :
+Input consists of 4 integers.
+The 1st integer corresponds to n.
+The 2nd integer corresponds to x.
+The 3rd integer corresponds to a1.
+The 4th integer corresponds to a2.
+ 
+Output Format :
+Output consists of a float that corresponds to the average score.
+ 
+Sample Input :
+100
+75
+25
+50
+ 
+Sample Output :
+31.25
+ 

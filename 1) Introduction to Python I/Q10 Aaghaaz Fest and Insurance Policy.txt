@@ -1,0 +1,20 @@
+"Aaghaaz" Fest and Insurance Policy
+
+In the "Aaghaaz" fest of ABC Institute of Technology, students from Colleges all over would take part. An Insurance Company is one of the prime sponsors for this Fest and they had introduced a new  policy  at a very low premium rate for the participants of the events.
+
+This insurance company believes that people can be divided into 2 classes --- people who are accident prone and those who are not. Their statistics show that an accident prone person will have an accident at some time within a fixed 1-year period with probability x, whereas this probability decreases to y for a non-accident prone person. If we assume that z% of the population is accident prone, what is the probability that a new policy holder will have an accident within a year of purchasing a policy?
+
+Input and Output Format:
+Refer sample input and output for formatting specifications.
+All float values are displayed correct to 3 decimal places.
+
+Sample Input and Output :
+[All text in bold corresponds to input and the rest corresponds to output]
+
+Enter the value of x
+0.35
+Enter the value of y
+0.25
+Enter the value of z
+50
+The probability that a new policy holder will have an accident within a year is 0.300 

@@ -1,0 +1,3 @@
+a=raw_input("Enter the Movie name:\n")
+a=a[:10]
+print "The truncated string is %s" %a

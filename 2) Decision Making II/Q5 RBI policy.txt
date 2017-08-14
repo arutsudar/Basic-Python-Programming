@@ -1,0 +1,26 @@
+RBI policy
+
+The new RBI policy with respect to ATM usages would be applicable effectively from April 1st, which will curtail free ATM usages.
+
+As per the policy, which was released earlier, users can use the ATMs of their home bank only for 3 times a month beyond which 1% per transaction would be charged. Incase they use the ATMs of other banks 2% per transaction would be charged for cash withdrawals.
+
+Consider a user has used the ATM 5 times in a month. Based on the bank and amount withdrawn, write a program to find the service charge.
+
+Input Format:
+The first line of the input is a string which tells the user's home bank.
+ The remaining five lines consists of two inputs, first one is a string which tells from which bank's ATM the amount was drawn and the second one is an integer which tells you the amount drawn.
+
+Output Format :
+Output should print an integer value which gives the service charge.
+[Note: Assume that the Output will always be an Integer.]
+Refer sample input and output for further formatting specifications.
+
+Sample Input 1:
+SIB
+ICICI 4000
+SIB 3000
+SIB 7000
+SIB 4000
+Canara 6000
+Sample Output 1:
+200 

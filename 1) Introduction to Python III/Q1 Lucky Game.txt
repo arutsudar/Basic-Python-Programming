@@ -1,0 +1,19 @@
+Lucky Game
+ 
+Games are conducted in the break time every day for the primary classes. One of the games is the lucky game. In this game every kid will be asked to write a 2-digit number. The criteria for the selecting
+the winner in the lucky game is different every day. On one of the days, the winner is selected based on the sum of the digits in the number.
+Write a program to find the sum of digits in a 2-digit number.
+
+ 
+Input Format :
+Input consists of an integer.
+
+ 
+Output Format:
+Output consists of an integer that corresponds to the sum.
+
+ 
+Sample Input :
+34
+Sample Output :
+7

@@ -1,0 +1,25 @@
+"Aaghaaz" Fest and Dice Game
+
+The "Aaghaaz" Fest is a popular fest in Bangalore, notable for its unique orientation of events targeting Infotainment.
+
+One of the interesting event in the Fest is "Throw Ur Dice". The participant has to throw a dice for 5 times, and if he ends up with number 5 all the 5 times, then the screen should print the participant's name 5 times.
+
+Write a program to help the event coordinator to get and print the winners' name 5 times. 
+
+Sample Input and Output:
+[All text in bold corresponds to input and the rest corresponds to output]
+
+ Enter the name
+ Krishna
+ KrishnaKrishnaKrishnaKrishnaKrishna 
+
+
+
+
+Problem Requirements:
+Python
+
+Keyword	Min Count	Max Count
+while	   0		    0
+Keyword	Min Count	Max Count
+for	   0		    0

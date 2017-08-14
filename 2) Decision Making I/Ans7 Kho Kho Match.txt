@@ -1,0 +1,6 @@
+a,b = map (int,raw_input().split())
+c,d = map (int,raw_input().split())
+e,f = map (int,raw_input().split())if a*(d-f)+c*(f-b)+e*(b-d)==0:
+    print "In position"
+else:
+    print "Not in position"

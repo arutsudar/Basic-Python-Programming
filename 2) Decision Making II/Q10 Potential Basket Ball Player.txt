@@ -1,0 +1,38 @@
+Potential Basket Ball Player
+The Principal of the Royal International School is so glad as their School is going to host the InterSchool Basket Ball Championship for this year. He has assigned the greatest responsibility of choosing the potential players for his school's Basket Ball Team to Varun, the PET Director.
+
+For a Basket Ball Team, players are selected as based on three criteria height, weight and agility. So those players whose height, weight and agility are greater than the given threshold value, he will be selected for the School Team.
+
+The players are classified as "Potential" or "Not Potential" based on the below equation:
+fh,a,w) = 0.5h + 0.2a + 0.3w
+If this value is greater than x, he is a potential player. Else he is not.
+
+Write a program to help Varun find if a player is potential player or not, given his height, weight and agility. 
+
+Input Format
+The first line of the input consists of integer which represent as threshold value.
+The second line of the input consists of integer which represent as height. 
+The third line of the input consists of integer which represent as weight. 
+The fourth line of the input consists of integer which represent as agility.  
+
+Output Format
+Output  should print whether the given player is Potential or not.
+
+Sample Input
+50
+5
+40
+6
+
+Sample Output
+Not Potential Player 
+
+
+Sample Input 
+20 
+40 
+35 
+48 
+
+Sample Output 
+Potential Player 

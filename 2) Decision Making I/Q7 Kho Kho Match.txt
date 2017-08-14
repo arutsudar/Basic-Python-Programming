@@ -1,0 +1,31 @@
+Kho Kho Match
+Sundar is the Physical Education Teacher at a reputed school in the City. An Interschool Kho-Kho tournament is to be played shortly and Sundar was involved in training the School Kho-Kho team with sprinting, dodging, diving and taping practices. Once the practices were over, he intended to conduct warm-up matches to ensure the fitness levels of the students.
+
+The primary thing about the game is that the players should be seated at proper positions on the Centre line between the two poles. Ramesh, a spectator of the match wanted to confirm this but mathematically. Write a program to check if a player is exactly on the Centre line, given (x1,y1), (x2,y2) are co-ordinates of the two poles and (x3,y3) is the player location.
+
+Input Format:
+The first line of the input corresponds to two integers (x1,y1).
+The second line of the input corresponds to two integers (x2,y2).
+The third line of the input corresponds to two integers (x3,y3). 
+ 
+
+
+
+Output Format:
+Output should print a string "In position" (without the quotes) if the player is standing on the Centre line. Otherwise print "Not in position"(without the quotes).
+
+Sample Input 1:
+2 0
+8 0
+3 1
+
+Sample Output 1:
+Not in position
+
+Sample Input 2:
+2 0
+8 0
+3 0
+
+Sample Output 2:
+In position

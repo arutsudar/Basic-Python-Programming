@@ -1,0 +1,3 @@
+a=input("Enter the % of chance that the Fest will be held at Noida\n")
+b=input("Enter the percentage that Rita will be made the Event Head\n")
+print "The probability that Rita will be the Event Head at Noida is 0.%d" %( (a*b)/100 )

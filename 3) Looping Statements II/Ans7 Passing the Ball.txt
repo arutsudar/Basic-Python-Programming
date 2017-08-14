@@ -1,0 +1,15 @@
+def dist(a,b,x,y):
+    return ((x-a)**2+(y-b)**2)**.5
+ 
+x,y=map(int,raw_input().split())
+n=input()
+ans=0
+ans1=0
+p=0
+for i in range(n):
+    a,b=map(int,raw_input().split())
+    ans1=dist(a,b,x,y)
+    if ans1>ans:
+        ans=ans1
+	p=i
+print "P%d" %p

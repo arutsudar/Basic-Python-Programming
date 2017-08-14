@@ -1,0 +1,43 @@
+Sequence of Numbers
+According to Wikipedia, an arithmetic progression (AP) is a sequence of numbers such that the difference of any two successive members of the sequence is a constant. For instance, the sequence 3, 5, 7, 9, 11, 13, . . . is an arithmetic progression with common difference 2. For this problem, we will limit ourselves to arithmetic progression whose common difference is a non-zero integer.
+
+On the other hand, a geometric progression (GP) is a sequence of numbers where each term after the first is found by multiplying the previous one by a fixed non-zero number called the common ratio. For example, the sequence 2, 6, 18, 54, . . . is a geometric progression with common ratio 3. But again for this problem, we will limit ourselves to geometric progression whose common ratio is a non-zero integer.
+
+Given 'n' successive members of a sequence, you need to determine the type of the progression and the next successive member otherwise print "Neither GP nor AP". 
+
+Input   Format   
+The first line consists of integer value which represent the number of members in the sequence.
+The next 'n' line consists of integer which represents the respective members in the sequence.
+
+Output   Format  
+Output should print the type of the progression as "AP" or "GP" followed by the next successive value in the sequence separated by a space.
+Otherwise print "Neither GP nor AP". 
+
+Sample Input 1
+4
+12
+36
+108
+324
+
+Sample Output 1
+GP 972
+
+Sample Input 2
+5
+5
+10
+15
+20
+25
+Sample Output 2
+AP 30
+
+Sample Input 3
+4
+12
+16
+17
+21 
+Sample Output 3
+Neither AP nor GP

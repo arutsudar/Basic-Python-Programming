@@ -1,0 +1,30 @@
+Game of Marbles
+
+Marble games are very popular all over the world and is even now the game of interest amongst all ages of people because of the nostalgia it spreads and the aesthetic colours they are available in. Bob a little boy is relaxing his day by playing such a marble game.
+
+A box contains 'n' marbles, 'x' red ones and 'y' blue ones. Bob picks a marble at random from the bag. What is Bob's probability of picking:
+    a) a red marble?
+    b) a blue marble?
+    c) a red marble after a blue marble has been picked first.
+
+Write a program to help Bob find the probability.
+
+Input Format:
+The first line is an integer that corresponds to the total number of marbles.
+The second line is an integer that corresponds to the number of Red marbles.
+The third line is an integer that corresponds to the number of blue marbles.
+ Output Format:
+The first line is a float that corresponds to the probability of picking a red marble.
+The second line is a float that corresponds to the probability of picking a red marble.
+The third line is a float that corresponds to the probability of picking a red marble after a blue marble had been picked first.
+
+Sample Input:
+50
+28
+22
+Sample Output:
+0.56
+0.44
+0.57
+
+[Note print decimal part corrected 2 place] 

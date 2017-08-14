@@ -1,0 +1,28 @@
+Emily and the Parking Lot
+
+It is weekend and little girl Emily urged her Dad Peter to take her to the nearest Entertainment Mall. Peter, abiding by her sweet daughter's wish, set out to the Mall in his Car. The Mall was overpeopled as it was a weekend and Peter had to wait in a long queue to park his Car.
+
+Emily was closely observing the proceedings for the vehicles at the parking lot. There were 'n' vehicles, 'x' of which are cars, 'y' are vans and the remainder are lorries. If every vehicle is equally likely to leave the lot, Emily wished to know the probability of:
+a) van leaving first.
+b) lorry leaving first.
+c) car leaving second if either a lorry or van had left first.
+
+Write a program to help Emily know her answers.
+Input Format:
+The first line of the input is an integer that corresponds to the total number of vehicles in parking area.
+The second line of the input is an integer that corresponds to the number of car.
+The third line of the input is an integer that corresponds to the number of vans.
+
+Output Format:
+First line is a float that corresponds to the probability of van leaving first.
+Second line is a float that corresponds to the probability of lorry leaving first.
+Third line is a float that corresponds to the probability of car leaving second if either a lorry or van had left first.
+
+Sample Input:
+100
+60
+30
+Sample Output:
+0.30
+0.10
+0.61 

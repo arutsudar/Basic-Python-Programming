@@ -1,0 +1,12 @@
+a=input()
+if(a>=40):
+    print "71.3%",
+elif(a>=30 and a<=39):
+    print "52.6%",
+elif(a>=20 and a<=29):
+    print "19.6%",
+elif(a>=10 and a<=19):
+    print "6.0%",
+elif(a<10):
+    print "1.9%",
+print "mortality"

@@ -1,0 +1,20 @@
+a=input()
+b=input()
+c=input()
+if a>b+5 and a>c+5:
+    if b>c+5 or c>b+5:
+        print "Invalid Input"
+    else:
+        print a
+elif b>a+5 and b>c+5:
+    if a>c+5 or c>a+5:
+        print "Invalid Input"
+    else:
+        print b
+elif c>a+5 and c>b+5:
+    if a>b+5 or b>a+5:
+        print "Invalid Input"
+    else:
+        print c
+else:
+    print "No Outliers"

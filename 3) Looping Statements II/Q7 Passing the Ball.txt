@@ -1,0 +1,28 @@
+Passing the Ball
+
+Deepak and his gang of 'n' friends are playing the ball passing game on a leisurely evening. The rules for the game is that a person will be holding a ball and at the start of a music, he would pass the ball to the next person and this chain of passing the ball to the next person will continue until the music is stopped. The person holding the ball at the stop of the music will be out of the game. The person surviving till the end is the winner.
+
+After few minutes of play, the boys noticed that the music stopped playing due to some technical issues but they wanted to continue the game. So Deepak suggested an alternate way to play the same game. He asked everyone to spread out and stand randomly wherever they wanted. Now the person holding the ball should pass the ball to another person who is standing nearest to him among all the 'n' boys.
+ 
+Given a point P(the point where the person holding the ball is standing), and set of 'n' points(points where remaining boys are standing), find a point(person) closest to P. Write a program to find the nearest person for the boys during their turn of the game.
+
+Input Format:
+The first line consists of two integer values which are the 'x' and 'y' coordinates of  point P.
+The second line of the input is an integer value corresponds to 'n' i.e number of points.
+ The next n lines consists of two inputs, 'x' and 'y' coordinates of each point from P1 to Pn.
+
+Output Format :
+Output should print the point which is nearest to P.
+[Note: Assume that there is always one solution.]
+Refer sample input and output for further formatting specifications.
+
+Sample Input 1:
+5 1
+4
+2 3
+5 8
+6 2
+10 1
+
+Sample Output 1:
+P3

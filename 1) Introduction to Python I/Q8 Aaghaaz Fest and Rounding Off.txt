@@ -1,0 +1,19 @@
+"Aaghaaz" Fest and Rounding Off
+
+The "Aaghaaz" Fest witnessed the participation of more number of students as the day proceeded. One of a non-technical event that sought more attention is the "Striker" event.  In this event the participants should strike 10 bottles by 1 ball, given 3 chances. The number of bottles left after each shot is counted and the average after 3 shots is calculated. If the average is less than 10, the participants win .
+
+Write a program to get the score from the participants and print the same round off to 1, 2, 4 decimal places. 
+
+Input and Output Format:
+Refer sample input and output for formatting specifications.
+
+Sample Input and Output: 
+[All text in bold corresponds to input and the rest corresponds to output] 
+
+Enter the score
+34.67892
+The score is
+34.67892
+34.7
+34.68
+34.6789 

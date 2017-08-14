@@ -1,0 +1,6 @@
+a=input()
+b=input()
+c=input()
+print "%0.2f" %(float(b)/a)
+print "%0.2f" %(float(c)/a)
+print "%0.2f" %(float(b)/(a-1))

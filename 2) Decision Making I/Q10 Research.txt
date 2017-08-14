@@ -1,0 +1,38 @@
+Research
+
+There is a recent research made by the Stafford Institute of Children Welfare stating that there is a positive correlation between a child's reading ability given by a score and his/her height. The research was conducted on children in grades 2 through 5. The researchers called out numerous children for their reading tests and found the reading test score is far better for the taller ones. The researcher concluded this theory because the taller children can more easily see the blackboard.
+
+Now you wanted to test whether this theory of the researchers are true and so you conduct the same test on 3 children. Based on the given data, verify whether the theory of the researchers are true or not.
+
+Input Format:
+First line of the input is an integer which corresponds to height of child 1.
+Second line of the input is an integer which corresponds to the score of child 1.
+Third line of the input is an integer which corresponds to the height of child 2.
+Fourth line of the input is an integer which corresponds to the score of child 2.
+Fifth line of the input is an integer which corresponds to the height of child 3.
+Sixth line of the input is an integer which corresponds to the score of child 3.
+
+Output Format:
+Output should print "True" or "False" based on the given data.
+
+Sample Input 1:
+182
+92
+132
+54
+156
+62
+
+Sample Output 1:
+True
+
+Sample Input 2:
+176
+35
+150
+67
+160
+45
+
+Sample Output 2:
+False 

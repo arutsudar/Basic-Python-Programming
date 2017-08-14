@@ -1,0 +1,9 @@
+n=input()
+x=13
+for i in range(1,n):
+    x=x*i+i
+print x
+
+
+
+#13, 13*1+1, 14*2+2, 30*3+3, .....

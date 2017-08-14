@@ -1,0 +1,32 @@
+Square Point
+
+Given the side of the square and the cooordinates of the left bottom vertex of the square, find whether a point P1(x,y) lies within (or on) the square or not.
+ 
+ 
+Input Format:
+The first line of the input is an integer which corresponds to side length of the square.
+The second line of the input is an integer which corresponds to x coordinate of the left bottom corner point.
+The third line of the input is an integer which corresponds to y coordinate of the left bottom corner point.
+The fourth line of the input is an integer which corresponds to x coordinate of the point P1.
+The fifth line of the input is an integer which corresponds to y coordinate of the point P1.
+ 
+Output Format:
+Output is a String. Print "Yes" if P1 lies inside or on the square, else print "No".
+ 
+Sample Input 1:
+5
+1
+2
+50
+40
+Sample Output 1:
+No
+ 
+Sample Input 2:
+20
+3
+4
+6
+5
+Sample Output 2:
+Yes

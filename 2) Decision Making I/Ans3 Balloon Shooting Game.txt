@@ -1,0 +1,16 @@
+ax,ay=map(int,raw_input().split())
+bx,by=map(int,raw_input().split())
+px,py=map(int,raw_input().split())
+d=(px-ax)*(by-ay)-(py-ay)*(bx-ax)
+if d==0:
+    f=1
+elif d>0:
+    f=3
+else:
+    f=2
+if f==1:
+    print "Win"
+elif f==2:
+    print "Lose\nAbove the Line"
+else:
+    print "Lose\nBelow the Line"

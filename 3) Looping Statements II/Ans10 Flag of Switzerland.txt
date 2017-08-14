@@ -1,0 +1,24 @@
+import sys
+n=input()
+a=n/5
+for i in range(1,n+1):
+    if i<=a or i>=n-a+1:
+        for j in range(n-1):
+            sys.stdout.write('- ')
+        print '-'
+    elif (i>a and i<=2*a) or (i>3*a and i<=4*a):
+        for j in range(2*a):
+            sys.stdout.write('- ')
+        for j in range(a):
+            sys.stdout.write('0 ')
+        for j in range(2*a-1):
+            sys.stdout.write('- ')
+        print '-'
+    elif i>2*a and i<=3*a:
+        for j in range(a):
+            sys.stdout.write('- ')
+        for j in range(3*a):
+            sys.stdout.write('0 ')
+        for j in range(a-1):
+            sys.stdout.write('- ')
+        print '-'

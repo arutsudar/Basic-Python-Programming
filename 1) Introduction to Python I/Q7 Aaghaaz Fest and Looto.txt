@@ -1,0 +1,18 @@
+"Aaghaaz" Fest and Looto
+
+There is excitement in the air all through the day at "Aaghaaz" Fest. One of the notable events at the Fest is "Looto". There are 2 participants in each team of the event and each one is given a basket and a duration of 1 minute. The aim of the participants is to collect as many balls in the basket within the given time. Winning team is that team which has the highest average of balls combining the number of balls from both the participants' basket.
+
+Write a program that will get the the number of balls in 1st basket and 2nd basket and finds its average.
+
+Input and Output Format:
+Refer sample input and output for formatting specifications.
+All float values should be displayed correct to 1 decimal place. 
+
+Sample Input and Output: 
+[All text in bold corresponds to input and the rest corresponds to output] 
+
+Enter the number of balls in 1st basket 
+15 
+Enter the number of balls in 2nd basket 
+20 
+The average of 15 and 20 is 17.5 
